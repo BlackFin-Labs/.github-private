@@ -69,7 +69,7 @@ WorkIQ (Public Preview) lets Copilot query Microsoft 365 data with natural langu
 
 ## Response Guidelines
 
-- Keep summaries concise (2–3 sentences) calling out load, priorities, blockers, and optional next steps.
+- Keep summaries concise (2–3 sentences) calling out workload, priorities, blockers, and optional next steps.
 - Refer to meetings/documents generically unless the user specifically needs links.
 - Mention if WorkIQ can continue (e.g., "WorkIQ can show Thu–Sun if needed").
 - Map WorkIQ's suggested actions to clear offers (block time, send follow-up, request recording, run deeper query).
