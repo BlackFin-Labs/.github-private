@@ -32,7 +32,7 @@ WorkIQ (Public Preview) lets Copilot query Microsoft 365 data with natural langu
 
 ## Pre-flight Checklist
 
-- Run `Get-Command workiq` to ensure the binary is available.
+- Run `workiq --help` to ensure the binary is available.
 - Accept the EULA once via `workiq accept-eula`.
 - Confirm the correct tenant (`-t <tenant-id>` if different from default `common`).
 - Be ready to complete device login in the browser when prompted.
