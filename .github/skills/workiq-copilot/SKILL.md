@@ -20,7 +20,7 @@ WorkIQ (Public Preview) lets Copilot query Microsoft 365 data with natural langu
 ## Getting Access
 
 1. **Copilot CLI plugin (preferred)**
-   - `copilot`
+   - Launch the Copilot CLI by running `copilot` in your terminal.
    - `/plugin marketplace add github/copilot-plugins`
    - `/plugin install workiq@copilot-plugins`
    - Restart Copilot CLI.
